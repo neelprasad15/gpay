@@ -55,6 +55,7 @@
 </style>
 </head>
 <body>
+<div class="mt-5"><h1>Checkout</h1></div>
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
       <div class="container">
